@@ -1,0 +1,2 @@
+# CapybaraOS-web
+сайт типо
